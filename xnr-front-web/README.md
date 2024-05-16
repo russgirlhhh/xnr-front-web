@@ -1,29 +1,3 @@
-# xnr-front-web
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## 项目简介
+### 新农人互动平台
+本平台是一个完整的新农人互动交流平台，包括首页，搜索帖子，发布帖子，消息查询，个人中心，用户登录，注册等多个子模块，实现了用户遇到问题，发帖求助，互相评论交流，便利新农人解决农业问题。
