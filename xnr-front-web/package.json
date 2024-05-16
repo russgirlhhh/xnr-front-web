@@ -1,0 +1,32 @@
+{
+  "name": "xnr-front-web",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@kangc/v-md-editor": "^2.3.18",
+    "@wangeditor/editor": "^5.1.23",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "axios": "^1.6.8",
+    "element-plus": "^2.6.3",
+    "highlight.js": "^11.9.0",
+    "js-md5": "^0.8.3",
+    "sass": "^1.74.1",
+    "sass-loader": "^14.1.1",
+    "swiper": "^8.4.7",
+    "vue": "^3.4.21",
+    "vue-awesome-swiper": "^5.0.1",
+    "vue-cookies": "^1.8.3",
+    "vue-router": "^4.3.0",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.1.6"
+  }
+}
